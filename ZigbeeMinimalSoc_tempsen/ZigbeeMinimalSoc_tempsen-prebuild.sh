@@ -1,0 +1,1 @@
+"$4/developer/adapter_packs/python/bin/python3"  "$(dirname "$0")/ZigbeeMinimalSoc_tempsen-prebuild.py"

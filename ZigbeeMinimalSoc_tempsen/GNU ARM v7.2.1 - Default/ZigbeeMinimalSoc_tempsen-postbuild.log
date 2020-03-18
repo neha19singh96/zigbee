@@ -1,0 +1,3 @@
+INFO:root:Creation of 32 bit srec file: "/home/neha/SIMPLICITY_STUDIO/SimplicityStudio-v4/SimplicityStudio_v4/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeMinimalSoc_tempsen.axf" "ZigbeeMinimalSoc_tempsen.s37"
+INFO:root:Creation of gbl file: /home/neha/SIMPLICITY_STUDIO/SimplicityStudio-v4/SimplicityStudio_v4/developer/adapter_packs/commander/commander gbl create "ZigbeeMinimalSoc_tempsen.gbl" --app "ZigbeeMinimalSoc_tempsen.s37" --device EFR32MG12P332F1024GL125
+INFO:root:Creation of ota file: "/home/neha/SIMPLICITY_STUDIO/SimplicityStudio-v4/SimplicityStudio_v4/support/common/wine/usr/bin/wine" cmd /C  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
